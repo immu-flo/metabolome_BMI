@@ -1,5 +1,4 @@
 #### Import libraries ####
-setwd("H:/R/Multicohort/")			     	# Enter location of data file to import
 library(openxlsx)
 library(ggplot2)
 library(survival)
